@@ -1,20 +1,20 @@
   <?xml version="1.0" encoding="utf-8" ?> 
 - <resources>
 - <string-array name="week_days">
-  <item>周一</item> 
-  <item>周二</item> 
-  <item>周三</item> 
-  <item>周四</item> 
-  <item>周五</item> 
-  <item>周六</item> 
-  <item>周日</item> 
+  <item>Понедельник</item> 
+  <item>Вторник</item> 
+  <item>Среда</item> 
+  <item>Четверг</item> 
+  <item>Пятница</item> 
+  <item>Суббота</item> 
+  <item>Воскресенье</item> 
   </string-array>
 - <string-array name="menu_root">
-  <item>音轨选择</item> 
-  <item>字幕设置</item> 
-  <item>3D设置</item> 
-  <item>画面比例</item> 
-  <item>显示播放进度</item> 
+  <item>Выбор трека</item> 
+  <item>Субтитры</item> 
+  <item>Параметры 3D</item> 
+  <item>Соотношение сторон</item> 
+  <item>Показывать прогресс воспроизведения</item> 
   </string-array>
 - <string-array name="menu_setting_scale">
   <item>自适应</item> 
