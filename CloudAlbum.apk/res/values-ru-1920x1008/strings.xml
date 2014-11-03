@@ -1,0 +1,6 @@
+  <?xml version="1.0" encoding="utf-8" ?> 
+- <resources>
+  <string name="share_dissovle">注意</string> 
+  <string name="tv_notification_content">云相册有新照片，快去看看吧</string> 
+  <string name="tv_notification_title">云相册</string> 
+  </resources>
