@@ -1,0 +1,29 @@
+  <?xml version="1.0" encoding="utf-8" ?> 
+- <resources>
+- <string-array name="pref_key_days_list_titles">
+  <item>Never upload logs</item> 
+  <item>10 days</item> 
+  <item>20 days</item> 
+  <item>30 days</item> 
+  <item>60 days</item> 
+  <item>90 days</item> 
+  </string-array>
+- <string-array name="pref_key_days_list_values">
+  <item>0</item> 
+  <item>10</item> 
+  <item>20</item> 
+  <item>30</item> 
+  <item>60</item> 
+  <item>90</item> 
+  </string-array>
+- <string-array name="pref_key_url_list_titles">
+  <item>Default</item> 
+  <item>Product</item> 
+  <item>Development</item> 
+  </string-array>
+- <string-array name="pref_key_url_list_values">
+  <item /> 
+  <item>https://starfish.duokanbox.com</item> 
+  <item>http://zc-staging-dkbox-bsp00.bj:9971</item> 
+  </string-array>
+  </resources>
