@@ -1,17 +1,17 @@
   <?xml version="1.0" encoding="utf-8" ?> 
 - <resources>
 - <string-array name="device_names">
-  <item>客厅的小米电视</item> 
-  <item>主卧的小米电视</item> 
-  <item>次卧的小米电视</item> 
-  <item>书房的小米电视</item> 
-  <item>自定义</item> 
+  <item>ТВ в гостинной</item> 
+  <item>ТВ в спальне</item> 
+  <item>ТВ в зале</item> 
+  <item>Изучение ТВ</item> 
+  <item>Автом.определение</item> 
   </string-array>
 - <string-array name="sleep_policy">
-  <item>30分钟</item> 
-  <item>60分钟</item> 
-  <item>120分钟</item> 
-  <item>永不休眠</item> 
+  <item>30 мин.</item> 
+  <item>60 мин.</item> 
+  <item>120 мин.</item> 
+  <item>Никогда</item> 
   </string-array>
 - <integer-array name="sleep_policy_values">
   <item>30</item> 
@@ -20,11 +20,11 @@
   <item>-1</item> 
   </integer-array>
 - <string-array name="screensaver_policy">
-  <item>关闭</item> 
-  <item>1分钟</item> 
-  <item>4分钟</item> 
-  <item>8分钟</item> 
-  <item>12分钟</item> 
+  <item>Отключить</item> 
+  <item>1 мин.</item> 
+  <item>4 мин.</item> 
+  <item>8 мин.</item> 
+  <item>12 мин.</item> 
   </string-array>
 - <string-array name="tv_preview_policy">
   <item>TV</item> 
@@ -52,14 +52,14 @@
   <item>12</item> 
   </integer-array>
 - <string-array name="display_sound_profile">
-  <item>标准模式</item> 
-  <item>用户模式</item> 
-  <item>显示模式</item> 
-  <item>电影模式</item> 
-  <item>游戏模式</item> 
-  <item>艳丽模式</item> 
-  <item>运动模式</item> 
-  <item>显示器模式</item> 
+  <item>Стандарт</item> 
+  <item>Вручную</item> 
+  <item>Дисплей</item> 
+  <item>Фильмы</item> 
+  <item>Игры</item> 
+  <item>Улучшенный</item> 
+  <item>Спорт</item> 
+  <item>Монитор</item> 
   </string-array>
 - <string-array name="display_sound_profile_desc">
   <item>所有场景下的通用画面和音质模式</item> 
