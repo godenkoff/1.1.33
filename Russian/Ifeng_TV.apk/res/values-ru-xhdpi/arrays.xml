@@ -17,12 +17,12 @@
   <item>Показывать прогресс воспроизведения</item> 
   </string-array>
 - <string-array name="menu_setting_scale">
-  <item>自适应</item> 
-  <item>强制全屏</item> 
+  <item>Адаптивный режим</item> 
+  <item>Полноэкранный режим</item> 
   </string-array>
 - <string-array name="menu_online_setting_resolution">
-  <item>Определение приоритетов</item> 
-  <item>流畅度优先</item> 
+  <item>Определеннный приоритет</item> 
+  <item>Плавный приоритет</item> 
   </string-array>
 - <string-array name="menu_subtitle_opts">
   <item>Скрыть субтитры</item> 
