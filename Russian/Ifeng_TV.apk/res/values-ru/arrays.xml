@@ -10,7 +10,7 @@
   <item>Воскресенье</item> 
   </string-array>
 - <string-array name="menu_root">
-  <item>Выбор трека</item> 
+  <item>Выбор звук.дорожки</item> 
   <item>Субтитры</item> 
   <item>Соотношение сторон</item> 
   <item>Показывать прогресс воспроизведения</item> 
