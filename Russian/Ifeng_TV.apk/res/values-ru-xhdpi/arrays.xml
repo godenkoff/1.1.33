@@ -21,7 +21,7 @@
   <item>Полноэкранный режим</item> 
   </string-array>
 - <string-array name="menu_online_setting_resolution">
-  <item>Определеннный приоритет</item> 
+  <item>Четкий приоритет</item> 
   <item>Плавный приоритет</item> 
   </string-array>
 - <string-array name="menu_subtitle_opts">
