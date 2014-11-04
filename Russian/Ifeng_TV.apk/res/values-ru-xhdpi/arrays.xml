@@ -21,42 +21,42 @@
   <item>强制全屏</item> 
   </string-array>
 - <string-array name="menu_online_setting_resolution">
-  <item>清晰度优先</item> 
+  <item>Определение приоритетов</item> 
   <item>流畅度优先</item> 
   </string-array>
 - <string-array name="menu_subtitle_opts">
-  <item>关闭字幕</item> 
-  <item>设置字幕样式</item> 
-  <item>字幕自动下载</item> 
+  <item>Скрыть субтитры</item> 
+  <item>Стиль субтитров</item> 
+  <item>Автозагрузка субтитров</item> 
   </string-array>
 - <string-array name="menu_root_online">
-  <item>清晰度</item> 
-  <item>画面比例</item> 
+  <item>Четкость</item> 
+  <item>Соотношение сторон</item> 
   </string-array>
 - <string-array name="menu_setting_3d">
-  <item>关闭3D</item> 
-  <item>自动识别</item> 
-  <item>左右</item> 
-  <item>上下</item> 
-  <item>帧封装</item> 
+  <item>Выключить 3D</item> 
+  <item>Автоопределение</item> 
+  <item>Вертикальная пара</item> 
+  <item>Горизонтальная пара</item> 
+  <item>Инкапсуляция кадра</item> 
   </string-array>
 - <string-array name="menu_play_progress">
-  <item>开</item> 
-  <item>关</item> 
+  <item>Открыть</item> 
+  <item>Выключить</item> 
   </string-array>
 - <string-array name="menu_root_m8">
-  <item>音轨选择</item> 
-  <item>字幕设置</item> 
-  <item>画面比例</item> 
-  <item>显示播放进度</item> 
+  <item>Выбрать трек</item> 
+  <item>Настройка субтитров</item> 
+  <item>Соотношение сторон</item> 
+  <item>Показывать прогресс воспроизведения</item> 
   </string-array>
 - <string-array name="menu_setting">
-  <item>画面比例</item> 
-  <item>3D设置</item> 
+  <item>Соотношение сторон</item> 
+  <item>Параметры 3D</item> 
   </string-array>
 - <string-array name="menu_subtitle_opts_m8">
-  <item>关闭字幕</item> 
-  <item>字幕自动下载</item> 
-  <item>设置字幕样式</item> 
+  <item>Скрыть субтитры</item> 
+  <item>Автозагрузка субтитров</item> 
+  <item>Стиль субтитров</item> 
   </string-array>
   </resources>
