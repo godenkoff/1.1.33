@@ -41,8 +41,8 @@
   <item>Инкапсуляция кадра</item> 
   </string-array>
 - <string-array name="menu_play_progress">
-  <item>Открыть</item> 
-  <item>Выключить</item> 
+  <item>Включить</item> 
+  <item>Отключить</item> 
   </string-array>
 - <string-array name="menu_root_m8">
   <item>Выбрать трек</item> 
