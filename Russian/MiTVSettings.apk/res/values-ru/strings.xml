@@ -7,11 +7,11 @@
   <string name="security_settings_desc">Настройка аккаунта и параметров защиты ТВ</string> 
   <string name="install_warning_hint2">Ваш ТВ и ваши персональные данные становятся более уязвимыми для атак приложений, полученных от неизвестных источников. Использования таких приложений, может привести к потере личных данных и поломке ТВ. Вы соглашаетесь взять на себя полную ответственность? 您的电视和个人数据更容易受到从未知来源获取的应用的攻击。对于因使用这些应用而造成的电视损坏或数据丢失，您同意自行承担全部责任。</string> 
   <string name="recovery_retain_desc">Сохранять загруженные приложения при восстановлении ТВ</string> 
-  <string name="network_diagnoser_desc">检查电视网络连接状态</string> 
-  <string name="network_speed_test_desc">检查电视网络连接速度</string> 
-  <string name="displaysound_desc">电视图像和声音设置</string> 
-  <string name="display_sound">图像与声音</string> 
-  <string name="account_security">帐户与安全</string> 
+  <string name="network_diagnoser_desc">Проверка состояния сетевых подключений</string> 
+  <string name="network_speed_test_desc">Проверка скорости доступа</string> 
+  <string name="displaysound_desc">Настройки изображения и звука</string> 
+  <string name="display_sound">Изображение и звук</string> 
+  <string name="account_security">Аккаунт и безопасность</string> 
   <string name="general_settings">通用设置</string> 
   <string name="system_upgrade">系统升级</string> 
   <string name="about">关于</string> 
