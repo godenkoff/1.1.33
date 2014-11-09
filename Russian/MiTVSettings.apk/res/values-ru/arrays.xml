@@ -1,32 +1,32 @@
   <?xml version="1.0" encoding="utf-8" ?> 
-- <resources>
-- <string-array name="device_names">
+  <resources>
+  <string-array name="device_names">
   <item>ТВ в гостинной</item> 
   <item>ТВ в спальне</item> 
   <item>ТВ в зале</item> 
-  <item>Изучение ТВ</item> 
+  <item>ТВ в детской</item> 
   <item>Автом.определение</item> 
   </string-array>
-- <string-array name="sleep_policy">
+  <string-array name="sleep_policy">
   <item>30 мин.</item> 
   <item>60 мин.</item> 
   <item>120 мин.</item> 
   <item>Никогда</item> 
   </string-array>
-- <integer-array name="sleep_policy_values">
+  <integer-array name="sleep_policy_values">
   <item>30</item> 
   <item>60</item> 
   <item>120</item> 
   <item>-1</item> 
   </integer-array>
-- <string-array name="screensaver_policy">
+  <string-array name="screensaver_policy">
   <item>Отключить</item> 
   <item>1 мин.</item> 
   <item>4 мин.</item> 
   <item>8 мин.</item> 
   <item>12 мин.</item> 
   </string-array>
-- <string-array name="tv_preview_policy">
+  <string-array name="tv_preview_policy">
   <item>TV</item> 
   <item>AV</item> 
   <item>HDMI1</item> 
@@ -35,7 +35,7 @@
   <item>VGA</item> 
   <item>DTMB</item> 
   </string-array>
-- <integer-array name="tv_preview_policy_values">
+  <integer-array name="tv_preview_policy_values">
   <item>0</item> 
   <item>1</item> 
   <item>2</item> 
@@ -44,16 +44,16 @@
   <item>4</item> 
   <item>7</item> 
   </integer-array>
-- <integer-array name="screensaver_policy_values">
+  <integer-array name="screensaver_policy_values">
   <item>0</item> 
   <item>1</item> 
   <item>4</item> 
   <item>8</item> 
   <item>12</item> 
   </integer-array>
-- <string-array name="display_sound_profile">
+  <string-array name="display_sound_profile">
   <item>Стандарт</item> 
-  <item>Вручную</item> 
+  <item>Ручной</item> 
   <item>Дисплей</item> 
   <item>Фильмы</item> 
   <item>Игры</item> 
@@ -61,7 +61,7 @@
   <item>Спорт</item> 
   <item>Монитор</item> 
   </string-array>
-- <string-array name="display_sound_profile_desc">
+  <string-array name="display_sound_profile_desc">
   <item>Общий режим изображения и звука во всех сценах/所有场景下的通用画面和音质模式</item> 
   <item>Самостоятельная настройка параметров изображения/用户自定义自己喜欢的图像模式</item> 
   <item>Режим дисплея /显示模式</item> 
@@ -71,7 +71,7 @@
   <item>В этом режиме снижается скорость в динамичных сценах, для уменьшения смазывания изображения /减少高速运动时画面所产生的拖影</item> 
   <item>Этот режим может быть выбран при подключении к компьтеру или ТВ-приставке/ 连接电脑、小米盒子时可选用此模式</item> 
   </string-array>
-- <string-array name="display_parameters">
+  <string-array name="display_parameters">
   <item>Яркость</item> 
   <item>Контраст</item> 
   <item>Насыщенность</item> 
@@ -80,73 +80,73 @@
   <item>Цвет.температура</item> 
   <item>Подсветка</item> 
   </string-array>
-- <string-array name="display_color_temperatures">
+  <string-array name="display_color_temperatures">
   <item>Холодный</item> 
   <item>Натуральный</item> 
   <item>Теплый</item> 
   </string-array>
-- <string-array name="sound_input">
+  <string-array name="sound_input">
   <item>Bluetooth</item> 
   <item>S/PDIF</item> 
   <item>AUX</item> 
   </string-array>
-- <string-array name="sound_interface">
+  <string-array name="sound_interface">
   <item>HDMI ARC</item> 
   <item>AMP</item> 
   <item>S/PDIF</item> 
   </string-array>
-- <string-array name="sound_output">
+  <string-array name="sound_output">
   <item>Динамики телевизора</item> 
   <item>Внешняя аккустика</item> 
   </string-array>
-- <string-array name="sound_output_desc">
+  <string-array name="sound_output_desc">
   <item>Выводить звук через встроенные колоноки</item> 
   <item>Выводить звук через внешние источники</item> 
   </string-array>
-- <string-array name="xiaomi_sound_output">
+  <string-array name="xiaomi_sound_output">
   <item>Динамики телевизора</item> 
   <item>Xiaomi Home Theater</item> 
   <item>Внешняя аккустика</item> 
   </string-array>
-- <string-array name="xiaomi_sound_output_desc">
+  <string-array name="xiaomi_sound_output_desc">
   <item>Выводить звук через встроенные колоноки</item> 
   <item>Выводить звук через Xiaomi Home Theater</item> 
   <item>Выводить звук через внешние источники</item> 
   </string-array>
-- <string-array name="soundBar_customize">
+  <string-array name="soundBar_customize">
   <item>Высокие частоты</item> 
   <item>Средние частоты</item> 
   <item>Низкие частоты</item> 
   <item>Ультра-низкие частоты</item> 
   </string-array>
-- <string-array name="SPDIF1">
+  <string-array name="SPDIF1">
   <item>PCM</item> 
   <item>Raw Data</item> 
   <item>ВЫКЛ.</item> 
   </string-array>
-- <string-array name="SPDIF2">
+  <string-array name="SPDIF2">
   <item>PCM</item> 
   <item>ВЫКЛ.</item> 
   </string-array>
-- <string-array name="acoustics">
+  <string-array name="acoustics">
   <item>Баланс</item> 
   <item>Четкость</item> 
   <item>Усиление</item> 
   </string-array>
-- <string-array name="SPDIF_desc">
+  <string-array name="SPDIF_desc">
   <item>Digital audio (Stereo)</item> 
   <item>Digital audio (5.1)</item> 
-  <item>Аналоговый звук, если домашеий кинотеатр выключен</item> 
+  <item>Звук через динамики, если выключен домашний кинотеатр</item> 
   </string-array>
-- <string-array name="priority">
+  <string-array name="priority">
   <item>Bluetooth подключение </item> 
   <item>Проводное подключение</item> 
   </string-array>
-- <string-array name="recovery_retain">
+  <string-array name="recovery_retain">
   <item>Сохраниить</item> 
   <item>Не сохранять</item> 
   </string-array>
-- <string-array name="box_sound_output">
+  <string-array name="box_sound_output">
   <item>Аналоговый аудиовыход</item> 
   <item>S/PDIF-PCM</item> 
   <item>S/PDIF-Raw</item> 
