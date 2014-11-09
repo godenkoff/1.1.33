@@ -1,5 +1,5 @@
   <?xml version="1.0" encoding="utf-8" ?> 
-- <resources>
+  <resources>
   <string name="app_name">Цифровое ТВ</string> 
   <string name="menu_settings">Настройки</string> 
   <string name="title_activity_atvplayer">Аналоговое ТВ</string> 
@@ -164,7 +164,7 @@
   <string name="aspect_ratio_enlargement">放大</string> 
   <string name="aspect_ratio_oversacn_enlargement">过扫描拉伸</string> 
   <string name="unknown">未知</string> 
-  <string name="sound_mode_off">关闭</string> 
-  <string name="sound_mode_music">音乐模式</string> 
-  <string name="sound_mode_moview">影院模式</string> 
+  <string name="sound_mode_off">ВЫКЛ.</string> 
+  <string name="sound_mode_music">Музыка</string> 
+  <string name="sound_mode_moview">Кино</string> 
   </resources>
