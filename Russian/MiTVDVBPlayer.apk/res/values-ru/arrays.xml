@@ -1,20 +1,20 @@
   <?xml version="1.0" encoding="utf-8" ?> 
-- <resources>
-- <string-array name="scene_mode">
+  <resources>
+  <string-array name="scene_mode">
   <item>Стандартный</item> 
   <item>Кино</item> 
   <item>Улучшенный</item> 
   <item>Спорт</item> 
   <item>Вручную</item> 
   </string-array>
-- <string-array name="three_dimension">
+  <string-array name="three_dimension">
   <item>Выключить 3D</item> 
   <item>Автоопределение</item> 
   <item>Горизонтальная пара</item> 
   <item>Вертикальная пара</item> 
   <item>Инкапсуляция кадра</item> 
   </string-array>
-- <string-array name="screen_ratio">
+  <string-array name="screen_ratio">
   <item>Оригинальные пропорции</item> 
   <item>Растянуть на весь экран</item> 
   </string-array>
