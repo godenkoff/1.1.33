@@ -1,5 +1,5 @@
   <?xml version="1.0" encoding="utf-8" ?> 
-- <resources>
+  <resources>
   <string name="app_name">MiBox</string> 
   <string name="app_name_tv">Онлайн видео</string> 
   <string name="play_setting">Параметры воспроизведения</string> 
@@ -25,15 +25,15 @@
   <string name="loading_text_without_device">Загрузка</string> 
   <string name="loading_text_with_device">Прием от</string> 
   <string name="loading_text_with_device_middle">из</string> 
-- <string name="loading_text_with_device_tailer">
+  <string name="loading_text_with_device_tailer">
   <CDATA>Видео...</CDATA> 
   </string>
-- <string name="loading_text_without_url">
+  <string name="loading_text_without_url">
   <CDATA>Получение адреса видео...</CDATA> 
   </string>
   <string name="loading_text_geturl_failure">Не удалось получить адрес видео, нажмите клавишу «Назад» для возврата</string> 
   <string name="loading_text_player_on_error">Воспроизведение не доступно, нажмите клавишу «Назад» для возврата</string> 
-- <string name="loading_text_on_prepare">
+  <string name="loading_text_on_prepare">
   <CDATA>Чтение информации о видео...</CDATA> 
   </string>
   <string name="get_url_failed">Не удалось получить url-адрес</string> 
@@ -46,7 +46,7 @@
   <string name="downloading_subtitle_success">Загрузка завершена</string> 
   <string name="downloading_subtitle_fail">Ошибка загрузки</string> 
   <string name="downloading_subtitle_cancel">Загрузка отменена</string> 
-- <string name="download_speed_head_text">
+  <string name="download_speed_head_text">
   <CDATA>Скорость загрузки:</CDATA> 
   </string>
   <string name="loading_hint">Выбран медленный источник, для загрузки видео потребуется больше времени</string> 
