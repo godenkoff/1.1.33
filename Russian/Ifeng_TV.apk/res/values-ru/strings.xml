@@ -40,8 +40,8 @@
   <string name="load_stream_failed">Не удается загрузить видео</string> 
   <string name="down_grade_tip_header">Скорость сети недостаточна，попробуйте нажать кнопку "</string> 
   <string name="down_grade_tip_tailer">Вниз" для быстрой смены качества изображения</string> 
-  <string name="try_play_tips">Отрывок для просмотра доступен в течение 5 минут，продолжить просмотр можно после покупки</string> 
-  <string name="device_umount_error">Ваше мобильное устройство отключено, ннажмите клавишу «Назад» для возврата</string> 
+  <string name="try_play_tips">Отрывок для просмотра доступен в течение 5 минут, продолжить просмотр можно после покупки</string> 
+  <string name="device_umount_error">Ваше мобильное устройство отключено, для возврата нажмите «Назад»</string> 
   <string name="downloading_subtitle">Загрузка субтитров из сети...</string> 
   <string name="downloading_subtitle_success">Загрузка завершена</string> 
   <string name="downloading_subtitle_fail">Ошибка загрузки</string> 
