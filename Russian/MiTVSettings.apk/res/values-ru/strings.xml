@@ -235,8 +235,8 @@
   <string name="contact_us_desc">Связаться со службой поддержки Xiaomi</string> 
   <string name="about_desc">Информация об устройстве</string> 
   <string name="tv_info">Информация о ТВ</string> 
-  <string name="disk_space">Сведения о диске</string> 
-  <string name="sd_space">Сведения о SD-карте</string> 
+  <string name="disk_space">Информация о диске</string> 
+  <string name="sd_space">Информация о SD-карте</string> 
   <string name="network_info">Информация о сети</string> 
   <string name="product_model">Модель</string> 
   <string name="product_number">Код продукта</string> 
