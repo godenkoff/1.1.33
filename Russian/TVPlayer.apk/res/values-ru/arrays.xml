@@ -1,50 +1,50 @@
   <?xml version="1.0" encoding="utf-8" ?> 
 - <resources>
 - <string-array name="screen_ratio_atv">
-  <item>全屏拉伸</item> 
-  <item>智能拉伸</item> 
-  <item>原始比例</item> 
-  <item>放大</item> 
+  <item>На весь экран</item> 
+  <item>Автоматически/Умное увеличение</item> 
+  <item>Оригинальные пропорции</item> 
+  <item>Увеличение</item> 
   </string-array>
 - <string-array name="screen_ratio_hdmi">
-  <item>全屏拉伸</item> 
-  <item>智能缩放</item> 
-  <item>原始比例</item> 
-  <item>过扫描拉伸</item> 
+  <item>На весь экран</item> 
+  <item>Автоматически/Умное увеличение</item> 
+  <item>Оригинальные пропорции</item> 
+  <item>Принудительное увеличение</item> 
   </string-array>
 - <string-array name="screen_ratio_others">
-  <item>全屏拉伸</item> 
-  <item>原始比例</item> 
-  <item>智能缩放</item> 
+  <item>На весь экран</item> 
+  <item>Оригинальные пропорции</item> 
+  <item>Автоматически/Умное увеличение</item> 
   </string-array>
 - <string-array name="scene_mode_atv">
-  <item>标准模式</item> 
-  <item>电影模式</item> 
-  <item>艳丽模式</item> 
-  <item>运动模式</item> 
-  <item>自定义模式</item> 
+  <item>Стандартный</item> 
+  <item>Кино</item> 
+  <item>Улучшенный</item> 
+  <item>Спорт</item> 
+  <item>Вручную</item> 
   </string-array>
 - <string-array name="scene_mode_others">
-  <item>标准模式</item> 
-  <item>电影模式</item> 
-  <item>艳丽模式</item> 
-  <item>运动模式</item> 
-  <item>游戏模式</item> 
-  <item>自定义模式</item> 
+  <item>Стандартный</item> 
+  <item>Кино</item> 
+  <item>Улучшенный</item> 
+  <item>Спорт</item> 
+  <item>Игры</item> 
+  <item>Вручную</item> 
   </string-array>
 - <string-array name="three_dimension">
-  <item>关闭3D</item> 
-  <item>自动识别</item> 
-  <item>上下</item> 
-  <item>左右</item> 
-  <item>帧封装</item> 
+  <item>Выключить 3D</item> 
+  <item>Автоопределение</item> 
+  <item>Горизонтальная пара</item> 
+  <item>Вертикальная пара</item> 
+  <item>Инкапсуляция кадра</item> 
   </string-array>
 - <string-array name="cec">
-  <item>关</item> 
-  <item>开</item> 
+  <item>ОТКЛ</item> 
+  <item>ВКЛ</item> 
   </string-array>
 - <string-array name="input_source_switch">
-  <item>模拟信号</item> 
-  <item>DTMB信号</item> 
+  <item>Аналоговый</item> 
+  <item>DTMB</item> 
   </string-array>
   </resources>
