@@ -21,7 +21,7 @@
   <string name="press_back_again_to_quit">Для выхода нажмите кнопку "Назад"</string> 
   <string name="count_of_channels">Каналов</string> 
   <string name="channel_scan_full">Поиск каналов</string> 
-  <string name="channel_scan_operator">Поиск оператора</string> 
+  <string name="channel_scan_operator">Поиск операторов</string> 
   <string name="channel_scan_single_tp">Одночастотный поиск</string> 
   <string name="screen_ratio">Соотношение сторон</string> 
   <string name="scene_mode">Режим изображения</string> 
