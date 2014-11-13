@@ -157,9 +157,9 @@
   <string name="dont_know_operator">不知道我家的运营商</string> 
   <string name="press">按</string> 
   <string name="menu_key_to_browse_by_category">菜单键选择分组</string> 
-  <string name="aspect_ratio_keep_ratio">原始比例</string> 
-  <string name="aspect_ratio_scretch">全屏拉伸</string> 
-  <string name="aspect_ratio_auto_scretch">智能拉伸</string> 
+  <string name="aspect_ratio_keep_ratio">Оригинальные пропорции</string> 
+  <string name="aspect_ratio_scretch">На весь экран</string> 
+  <string name="aspect_ratio_auto_scretch">Автоувеличение</string> 
   <string name="aspect_ratio_auto_scale">智能缩放</string> 
   <string name="aspect_ratio_enlargement">放大</string> 
   <string name="aspect_ratio_oversacn_enlargement">过扫描拉伸</string> 
