@@ -145,8 +145,8 @@
   <string name="please_rescan_channel_help">注意：请确认数字电视信号线已连接上小米高清电视盒</string> 
   <string name="coming_broadcast">即将播出:</string> 
   <string name="title_activity_external_source">TV外部源</string> 
-  <string name="dtmb_manual_scan_title">正在搜索第%1$02d频点</string> 
-  <string name="dtmb_scan_exiting">正在停止搜索，请稍等…</string> 
+  <string name="dtmb_manual_scan_title">Поиск %1$02d частот</string> 
+  <string name="dtmb_scan_exiting">Остановка поиска, подождите...</string> 
   <string name="one_touch_play_toast">"已开启一触即播，连接设备后直接播放。如需关闭，请进入设置修改。"</string> 
   <string name="reminder_toast_string">您预约当前频道的节目开播了，享受精彩节目吧！</string> 
   <string name="dialog_i_know">知道了</string> 
