@@ -28,7 +28,7 @@
   <string name="favorite_channel">"Любимые" каналы</string> 
   <string name="cancel_favorite">Отмена</string> 
   <string name="video_3d_settings">Настройки 3D</string> 
-  <string name="video_hdmi_key_settings">Управление CEC</string> 
+  <string name="video_hdmi_key_settings">Управление HDMI-CEC</string> 
   <string name="screen_scretch">На весь экран</string> 
   <string name="keep_ratio">Оригинальные пропорции</string> 
   <string name="screen_auto_scale">Интеллект.увеличение</string> 
