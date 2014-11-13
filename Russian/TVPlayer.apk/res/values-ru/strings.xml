@@ -32,8 +32,8 @@
   <string name="favorite_channel">"Избранные" каналы</string> 
   <string name="cancel_favorite">Отмена</string> 
   <string name="video_3d_settings">Настройки 3D</string> 
-  <string name="video_hdmi_key_settings">Управление CEC</string> 
-  <string name="video_hdmi_arc_settings">声音回传</string> 
+  <string name="video_hdmi_key_settings">Управление HDMI-CEC</string> 
+  <string name="video_hdmi_arc_settings">Возврат звука по HDMI</string> 
   <string name="screen_scretch">全屏拉伸</string> 
   <string name="keep_ratio">原始比例</string> 
   <string name="screen_auto_scale">智能缩放</string> 
