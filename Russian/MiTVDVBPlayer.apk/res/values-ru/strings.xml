@@ -160,10 +160,10 @@
   <string name="aspect_ratio_keep_ratio">Оригинальные пропорции</string> 
   <string name="aspect_ratio_scretch">На весь экран</string> 
   <string name="aspect_ratio_auto_scretch">Автоувеличение</string> 
-  <string name="aspect_ratio_auto_scale">智能缩放</string> 
-  <string name="aspect_ratio_enlargement">放大</string> 
-  <string name="aspect_ratio_oversacn_enlargement">过扫描拉伸</string> 
-  <string name="unknown">未知</string> 
+  <string name="aspect_ratio_auto_scale">Автомасштаб</string> 
+  <string name="aspect_ratio_enlargement">Увеличение</string> 
+  <string name="aspect_ratio_oversacn_enlargement">Принудительное увеличение</string> 
+  <string name="unknown">Неизвестно</string> 
   <string name="sound_mode_off">ВЫКЛ.</string> 
   <string name="sound_mode_music">Музыка</string> 
   <string name="sound_mode_moview">Кино</string> 
