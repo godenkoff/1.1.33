@@ -22,7 +22,7 @@
   <string name="count_of_channels">Каналы</string> 
   <string name="channel_scan_full">Поиск каналов</string> 
   <string name="channel_scan_operator">Поиск операторов</string> 
-  <string name="channel_scan_single_tp">Одночастотный поиск</string> 
+  <string name="channel_scan_single_tp">Поиск на одной частоте</string> 
   <string name="screen_ratio">Соотношение сторон</string> 
   <string name="scene_mode">Профили изображения</string> 
   <string name="favorite_channel">"Любимые" каналы</string> 
@@ -34,7 +34,7 @@
   <string name="screen_auto_scale">Автоматически/Умное увеличение</string> 
   <string name="screen_scene_monitor">Монитор式</string> 
   <string name="screen_scene_movie">Кино</string> 
-  <string name="screen_scene_standard">Стандарт</string> 
+  <string name="screen_scene_standard">Стандартный</string> 
   <string name="screen_scene_picture">Улучшенный</string> 
   <string name="screen_scene_game">Игры</string> 
   <string name="screen_scene_sports">Спорт</string> 
