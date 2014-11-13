@@ -2,20 +2,20 @@
 - <resources>
 - <string-array name="screen_ratio_atv">
   <item>На весь экран</item> 
-  <item>Автоматически/Умное увеличение</item> 
+  <item>Автоувеличение</item> 
   <item>Оригинальные пропорции</item> 
   <item>Увеличение</item> 
   </string-array>
 - <string-array name="screen_ratio_hdmi">
   <item>На весь экран</item> 
-  <item>Автоматически/Умное увеличение</item> 
+  <item>Автоувеличение</item> 
   <item>Оригинальные пропорции</item> 
   <item>Принудительное увеличение</item> 
   </string-array>
 - <string-array name="screen_ratio_others">
   <item>На весь экран</item> 
   <item>Оригинальные пропорции</item> 
-  <item>Автоматически/Умное увеличение</item> 
+  <item>Автоувеличение</item> 
   </string-array>
 - <string-array name="scene_mode_atv">
   <item>Стандартный</item> 
