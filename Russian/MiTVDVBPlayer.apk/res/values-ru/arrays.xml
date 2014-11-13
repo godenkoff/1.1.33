@@ -16,6 +16,6 @@
   </string-array>
   <string-array name="screen_ratio">
   <item>Оригинальные пропорции</item> 
-  <item>Растянуть на весь экран</item> 
+  <item>На весь экран</item> 
   </string-array>
   </resources>
