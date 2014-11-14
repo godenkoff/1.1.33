@@ -16,8 +16,8 @@
   <item>Показывать прогресс воспроизведения</item> 
   </string-array>
   <string-array name="menu_setting_scale">
-  <item>Адаптивный режим</item> 
-  <item>Полноэкранный режим</item> 
+  <item>Адаптивный</item> 
+  <item>На весь экран</item> 
   </string-array>
   <string-array name="menu_online_setting_resolution">
   <item>Заданный приоритет</item> 
@@ -39,7 +39,7 @@
   <item>Горизонтальная пара</item> 
   </string-array>
   <string-array name="menu_play_progress">
-  <item>Включить</item> 
-  <item>Отключить</item> 
+  <item>ВКЛ.</item> 
+  <item>ОТКЛ.</item> 
   </string-array>
   </resources>
