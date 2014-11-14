@@ -12,7 +12,7 @@
   <item>Автоопределение</item> 
   <item>Горизонтальная пара</item> 
   <item>Вертикальная пара</item> 
-  <item>Инкапсуляция кадра</item> 
+  <item>Упаковка кадров</item> 
   </string-array>
   <string-array name="screen_ratio">
   <item>Оригинальные пропорции</item> 
