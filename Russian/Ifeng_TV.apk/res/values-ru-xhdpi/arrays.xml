@@ -12,13 +12,13 @@
   <string-array name="menu_root">
   <item>Выбор звук.дорожки</item> 
   <item>Субтитры</item> 
-  <item>Параметры 3D</item> 
+  <item>Настройки 3D</item> 
   <item>Соотношение сторон</item> 
   <item>Показывать прогресс воспроизведения</item> 
   </string-array>
   <string-array name="menu_setting_scale">
-  <item>Адаптивный режим</item> 
-  <item>Полноэкранный режим</item> 
+  <item>Адаптивный</item> 
+  <item>На весь экран</item> 
   </string-array>
   <string-array name="menu_online_setting_resolution">
   <item>Заданный приоритет</item> 
@@ -38,11 +38,11 @@
   <item>Автоопределение</item> 
   <item>Вертикальная пара</item> 
   <item>Горизонтальная пара</item> 
-  <item>Инкапсуляция кадра</item> 
+  <item>Упаковка кадров</item> 
   </string-array>
   <string-array name="menu_play_progress">
-  <item>Включить</item> 
-  <item>Отключить</item> 
+  <item>ВКЛ.</item> 
+  <item>ОТКЛ.</item> 
   </string-array>
   <string-array name="menu_root_m8">
   <item>Выбрать звук.дорожку</item> 
@@ -52,7 +52,7 @@
   </string-array>
   <string-array name="menu_setting">
   <item>Соотношение сторон</item> 
-  <item>Параметры 3D</item> 
+  <item>Настройки 3D</item> 
   </string-array>
   <string-array name="menu_subtitle_opts_m8">
   <item>Скрыть субтитры</item> 
