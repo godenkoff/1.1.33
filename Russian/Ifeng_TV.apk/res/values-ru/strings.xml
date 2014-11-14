@@ -11,10 +11,10 @@
   <string name="hd_auto">Автоматически</string> 
   <string name="hd_quatity">Приоритет качества </string> 
   <string name="hd_speed">Приоритет скорости</string> 
-  <string name="on">Включить</string> 
-  <string name="off">Отключить</string> 
-  <string name="proportion_auto">Адаптивный режим</string> 
-  <string name="proportion_screen">Полноэкранный режим</string> 
+  <string name="on">ВКЛ.</string> 
+  <string name="off">ОТКЛ.</string> 
+  <string name="proportion_auto">Адаптивный</string> 
+  <string name="proportion_screen">На весь экран</string> 
   <string name="variety">Жанр/综艺</string> 
   <string name="di">п. (Пункт)/第</string> 
   <string name="ji">Артист/集</string> 
@@ -75,8 +75,8 @@
   <string name="select_episode">Эпизоды</string> 
   <string name="settting_scale">Соотношение сторон</string> 
   <string name="settting_play_progress">Показывать прогресс воспроизведения</string> 
-  <string name="setting_3d">Параметры 3D</string> 
-  <string name="menu_3d_title">Параметры 3D</string> 
+  <string name="setting_3d">Настройки 3D</string> 
+  <string name="menu_3d_title">Настройки воспроизведения 3D контента</string> 
   <string name="token_error">iCNTV Сертификат истек,нажмите клавишу «Назад» для возврата</string> 
   <string name="try_play_not_seekable">Попробуйте, не поддерживает перемотку «вперед» и «назад»</string> 
   <string name="try_play_complete">Посмотрите в конце</string> 
