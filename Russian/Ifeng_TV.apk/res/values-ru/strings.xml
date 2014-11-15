@@ -1,6 +1,6 @@
   <?xml version="1.0" encoding="utf-8" ?> 
   <resources>
-  <string name="app_name">MiBox</string> 
+  <string name="app_name">Онлайн видео</string> 
   <string name="app_name_tv">Онлайн видео</string> 
   <string name="play_setting">Параметры воспроизведения</string> 
   <string name="definition">Четкость</string> 
@@ -15,9 +15,9 @@
   <string name="off">ОТКЛ.</string> 
   <string name="proportion_auto">Адаптивный</string> 
   <string name="proportion_screen">На весь экран</string> 
-  <string name="variety">Жанр/综艺</string> 
-  <string name="di">п. (Пункт)/第</string> 
-  <string name="ji">Артист/集</string> 
+  <string name="variety">Исполнитель</string> 
+  <string name="di">п.</string> 
+  <string name="ji">Серия</string> 
   <string name="season">Сезон</string> 
   <string name="setting_audio">Звук.дорожка</string> 
   <string name="setting_subtitle">Субтитры</string> 
