@@ -1,13 +1,13 @@
   <?xml version="1.0" encoding="utf-8" ?> 
 - <resources>
-  <string name="app_name">小米电视桌面</string> 
-  <string name="channel_list">电视</string> 
-  <string name="channel_list_format">%s的小米电视</string> 
-  <string name="online_video">在线影视</string> 
-  <string name="game_center">游戏中心</string> 
-  <string name="app_center">应用商店</string> 
+  <string name="app_name"> MiTV Desktop</string> 
+  <string name="channel_list">Телевидение</string> 
+  <string name="channel_list_format">%s MiTV</string> 
+  <string name="online_video">Онлайн видео</string> 
+  <string name="game_center">Игровой центр</string> 
+  <string name="app_center">Магазин Приложений</string> 
   <string name="user_center">个人空间</string> 
-  <string name="app_list">应用程序</string> 
+  <string name="app_list">Приложения</string> 
   <string name="dev_name">客厅的小米电视</string> 
   <string name="dev_box_name">客厅的小米盒子</string> 
   <string name="menu_setting">设置</string> 
