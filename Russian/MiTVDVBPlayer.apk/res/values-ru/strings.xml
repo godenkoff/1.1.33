@@ -31,7 +31,7 @@
   <string name="video_hdmi_key_settings">Управление HDMI-CEC</string> 
   <string name="screen_scretch">На весь экран</string> 
   <string name="keep_ratio">Оригинальные пропорции</string> 
-  <string name="screen_auto_scale">Автоматически/Умное увеличение</string> 
+  <string name="screen_auto_scale">Автоувеличение</string> 
   <string name="screen_scene_monitor">Монитор</string> 
   <string name="screen_scene_movie">Кино</string> 
   <string name="screen_scene_standard">Стандартный</string> 
