@@ -1,5 +1,5 @@
   <?xml version="1.0" encoding="utf-8" ?> 
-<resources>
+  <resources>
   <string-array name="week_days">
   <item>Понедельник</item> 
   <item>Вторник</item> 
