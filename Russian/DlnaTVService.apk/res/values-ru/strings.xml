@@ -1,5 +1,5 @@
   <?xml version="1.0" encoding="utf-8" ?> 
-- <resources>
+  <resources>
   <string name="app_name">DlnaTVService</string> 
   <string name="renderer_activity_name">Dlna Визуализация</string> 
   <string name="dlna_daemon_start">Запуск Dlna сервиса</string> 
