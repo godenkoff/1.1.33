@@ -46,8 +46,8 @@
   <string name="aspect_ratio_enlargement">Увеличение</string> 
   <string name="aspect_ratio_oversacn_enlargement">Принудительное увеличение</string> 
   <string name="unknown">Неизвестно</string> 
-  <string name="screen_scene_news">Профили изображения</string> 
-  <string name="screen_scene_monitor">Профили изображения</string> 
+  <string name="screen_scene_news">Новости</string> 
+  <string name="screen_scene_monitor">Монитор</string> 
   <string name="screen_scene_movie">Кино</string> 
   <string name="screen_scene_standard">Стандартный</string> 
   <string name="screen_scene_picture">Улучшенный</string> 
