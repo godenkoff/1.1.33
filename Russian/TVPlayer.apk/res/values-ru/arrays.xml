@@ -1,30 +1,30 @@
   <?xml version="1.0" encoding="utf-8" ?> 
-- <resources>
-- <string-array name="screen_ratio_atv">
+  <resources>
+  <string-array name="screen_ratio_atv">
   <item>На весь экран</item> 
   <item>Автоувеличение</item> 
   <item>Оригинальные пропорции</item> 
   <item>Увеличение</item> 
   </string-array>
-- <string-array name="screen_ratio_hdmi">
+  <string-array name="screen_ratio_hdmi">
   <item>На весь экран</item> 
   <item>Автоувеличение</item> 
   <item>Оригинальные пропорции</item> 
   <item>Принудительное увеличение</item> 
   </string-array>
-- <string-array name="screen_ratio_others">
+  <string-array name="screen_ratio_others">
   <item>На весь экран</item> 
   <item>Оригинальные пропорции</item> 
   <item>Автоувеличение</item> 
   </string-array>
-- <string-array name="scene_mode_atv">
+  <string-array name="scene_mode_atv">
   <item>Стандартный</item> 
   <item>Кино</item> 
   <item>Улучшенный</item> 
   <item>Спорт</item> 
   <item>Вручную</item> 
   </string-array>
-- <string-array name="scene_mode_others">
+  <string-array name="scene_mode_others">
   <item>Стандартный</item> 
   <item>Кино</item> 
   <item>Улучшенный</item> 
@@ -32,18 +32,18 @@
   <item>Игры</item> 
   <item>Вручную</item> 
   </string-array>
-- <string-array name="three_dimension">
+  <string-array name="three_dimension">
   <item>Выключить 3D</item> 
   <item>Автоопределение</item> 
   <item>Горизонтальная пара</item> 
   <item>Вертикальная пара</item> 
   <item>Инкапсуляция кадра</item> 
   </string-array>
-- <string-array name="cec">
+  <string-array name="cec">
   <item>ОТКЛ</item> 
   <item>ВКЛ</item> 
   </string-array>
-- <string-array name="input_source_switch">
+  <string-array name="input_source_switch">
   <item>Аналоговый</item> 
   <item>DTMB</item> 
   </string-array>
