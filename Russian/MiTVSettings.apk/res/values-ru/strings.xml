@@ -178,7 +178,7 @@
   <string name="active_shutter_glasses_default_name">3D-очки %1$d</string> 
   <string name="active_shutter_glasses_battery">Заряд батареи:</string> 
   <string name="auto_play">Автоматическое воспроизведение</string> 
-  <string name="auto_play_desc">После включения воспроизведения, для просмотра контента на главном экране, автоматический включится функция "Картинка в картинке"容</string> 
+  <string name="auto_play_desc">После включения воспроизведения, для просмотра контента на главном экране, автоматический включится функция "Картинка в картинке"</string> 
   <string name="default_sd">Устанавливать приложения на SD-карту</string> 
   <string name="cec_control">Управление CEC</string> 
   <string name="cec_is_opening">Открытие CEC</string> 
