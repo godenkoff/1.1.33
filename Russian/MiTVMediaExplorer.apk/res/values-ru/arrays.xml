@@ -1,12 +1,12 @@
   <?xml version="1.0" encoding="utf-8" ?> 
-- <resources>
-- <string-array name="menu_root">
-  <item>Слайд-шоу</item> 
+  <resources>
+  <string-array name="menu_root">
+  <item>Слайд</item> 
   <item>Влево</item> 
   <item>Вправо</item> 
   <item>Удалить</item> 
   </string-array>
-- <string-array name="scraper_menu_sort">
+  <string-array name="scraper_menu_sort">
   <item>По убыванию</item> 
   <item>По возрастанию</item> 
   <item>A-Z</item> 
