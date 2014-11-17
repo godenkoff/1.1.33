@@ -1,9 +1,9 @@
   <?xml version="1.0" encoding="utf-8" ?> 
-- <resources>
-  <string name="app_name">高清播放器</string> 
-  <string name="app_name_guaxiaoqi">影视库</string> 
-  <string name="app_name_xq">小米路由器</string> 
-  <string name="app_name_xunlei">迅雷电影院</string> 
+  <resources>
+  <string name="app_name">HD-плеер</string> 
+  <string name="app_name_guaxiaoqi">Видеотека</string> 
+  <string name="app_name_xq">Mi Router</string> 
+  <string name="app_name_xunlei">Кинотеатр (Xunlei)</string> 
   <string name="device_type_DLNA">DLNA</string> 
   <string name="device_type_SMB">网络共享设备</string> 
   <string name="media_explorer">高清播放器</string> 
