@@ -2,11 +2,11 @@
   <resources>
   <string-array name="pref_key_days_list_titles">
   <item>Никогда не загружать журналы</item> 
-  <item>10 days</item> 
-  <item>20 days</item> 
-  <item>30 days</item> 
-  <item>60 days</item> 
-  <item>90 days</item> 
+  <item>10 дней</item> 
+  <item>20 дней</item> 
+  <item>30 дней</item> 
+  <item>60 дней</item> 
+  <item>90 дней</item> 
   </string-array>
   <string-array name="pref_key_days_list_values">
   <item>0</item> 
