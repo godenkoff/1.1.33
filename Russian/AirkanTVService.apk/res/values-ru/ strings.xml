@@ -1,13 +1,13 @@
   <?xml version="1.0" encoding="utf-8" ?> 
-- <resources>
+  <resources>
   <string name="app_name">AirkanParseAndroid</string> 
-  <string name="action_settings">Settings</string> 
+  <string name="action_settings">Настройки</string> 
   <string name="hello_world">Hello world!</string> 
-  <string name="phonename_default">米联设备</string> 
-  <string name="xiaomi_default">小米手机</string> 
-  <string name="xiaomi_1">小米手机</string> 
-  <string name="xiaomi_1s">小米手机1S</string> 
-  <string name="xiaomi_2">小米手机2</string> 
+  <string name="phonename_default">Mi-устройста</string> 
+  <string name="xiaomi_default">Телефон</string> 
+  <string name="xiaomi_1">MiPhone 1</string> 
+  <string name="xiaomi_1s">MiPhone 1S</string> 
+  <string name="xiaomi_2">MiPhone 2</string> 
   <string name="airkan_app_name">Mi-Link(Airkan/DLNA/Airplay) Services</string> 
   <string name="airkan_activity_name">Airkan TV Manager</string> 
   <string name="playerservice_name">Airkan TV Player Service</string> 
@@ -23,25 +23,25 @@
   <string name="mdns_service_name">mDNSSDRes Service</string> 
   <string name="mdns_service_start">mDNSSD Responder Serivce Started.</string> 
   <string name="airplay_stub_activity_title">Airplay Stub Activity</string> 
-  <string name="airplay_applying_new_name">正在设置Airplay设备名:</string> 
-  <string name="airplay_please_wait">请稍候...</string> 
-  <string name="airplay_service_started">Airplay Service Started ^_^</string> 
+  <string name="airplay_applying_new_name">Настройка имени Airplay устройства:</string> 
+  <string name="airplay_please_wait">Ожидайте...</string> 
+  <string name="airplay_service_started">Airplay запущен</string> 
   <string name="airplay_menu_settings">Settings</string> 
-  <string name="airplay_starting_service">正在启动Airplay服务</string> 
+  <string name="airplay_starting_service">Запуск сервиса Airplay</string> 
   <string name="rc_sensor_recv_service">Sensor Service</string> 
   <string name="title_activity_airplay_mirror">AirplayMirrorActivity</string> 
-  <string name="receiving_mirror_text">正在接收来自苹果设备的视频</string> 
+  <string name="receiving_mirror_text">Получение видео от Apple-устройств</string> 
   <string name="itool_text">iTools.cn</string> 
   <string name="milink_httpservice_name">MiLinkHttpServer</string> 
-  <string name="connect_fail_text">Mirror连接失败</string> 
+  <string name="connect_fail_text">Зеркальное подключение не удается</string> 
   <string name="default_client_name" /> 
-  <string name="default_device_name">小米盒子</string> 
-  <string name="default_video_title">视频</string> 
-  <string name="default_music_title">音乐</string> 
-  <string name="default_photo_title">图片</string> 
-  <string name="weixin">微信</string> 
+  <string name="default_device_name">MiBox</string> 
+  <string name="default_video_title">Видео</string> 
+  <string name="default_music_title">Музыка</string> 
+  <string name="default_photo_title">Фото</string> 
+  <string name="weixin">Блог</string> 
   <string name="pc">PC</string> 
-  <string name="miliao">米聊</string> 
-  <string name="tv_notification_title">我发现你了</string> 
-  <string name="tv_notification_content">附近有小米手机或苹果设备，可投屏互动，点击查看详情（使用一次投屏功能此通知将不再提示）</string> 
+  <string name="miliao">MiTalk</string> 
+  <string name="tv_notification_title">Я нашел вас</string> 
+  <string name="tv_notification_content">MiPhone или устройства Apple находящиеся рядом, имеют возможность передавать изображение на интерактивный экран, подробности здесь.(При использовании этой функции, это уведомление больше не будет появляться)</string> 
   </resources>
