@@ -8,9 +8,9 @@
   <string name="my_channel">Музыка в облаке</string> 
   <string name="my_fav">Избранное/string> 
   <string name="my_local">Музыка в уст-ве</string> 
-  <string name="vip_try">试听</string> 
-  <string name="vip_buy">成为会员</string> 
-  <string name="vip_now">我是会员</string> 
+  <string name="vip_try">Прослушать</string> 
+  <string name="vip_buy">Стать участником</string> 
+  <string name="vip_now">Участник</string> 
   <string name="no_fav">Не добавлять в избранное</string> 
   <string name="no_local">Музыки на уст-ве не найдено</string> 
   <string name="confirm">OK</string> 
@@ -25,8 +25,8 @@
   <string name="try_music_bitrate_192">128Кбит/с</string> 
   <string name="try_music_song_320">男人歌</string> 
   <string name="try_music_singer_320">小沈阳 高进</string> 
-  <string name="join_vip">加入会员</string> 
-  <string name="renewals_vip">续费</string> 
+  <string name="join_vip">Присоединиться</string> 
+  <string name="renewals_vip">Продление</string> 
   <string name="vip_channellist">音乐会员</string> 
   <string name="vip_productname">小米音乐会员</string> 
   <string name="vip_createorderfailed">创建订单失败，请重试</string> 
