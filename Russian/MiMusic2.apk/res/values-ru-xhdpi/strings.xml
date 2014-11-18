@@ -1,4 +1,4 @@
   <?xml version="1.0" encoding="utf-8" ?> 
-- <resources>
-  <string name="no_network">网络连接失败,请到设置中检查网络是否正常</string> 
+ <resources>
+  <string name="no_network">Нет подключения к сети</string> 
   </resources>
