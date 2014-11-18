@@ -1,8 +1,8 @@
   <?xml version="1.0" encoding="utf-8" ?> 
-- <resources>
-- <string-array name="dolby_list">
-  <item>杜比音乐</item> 
-  <item>杜比电影</item> 
-  <item>关闭杜比</item> 
+  <resources>
+  <string-array name="dolby_list">
+  <item>Dolby Music</item> 
+  <item>Dolby Сinema/item> 
+  <item>Выключить Dolby</item> 
   </string-array>
   </resources>
