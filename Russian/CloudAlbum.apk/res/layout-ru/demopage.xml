@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+  <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+  <Button android:id="@id/folders" android:layout_width="141.0dip" android:layout_height="wrap_content" android:text="Folder Info" style="?android:attr/buttonStyleSmall" /> 
+  <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+  <Button android:id="@id/images" android:layout_width="141.0dip" android:layout_height="wrap_content" android:text="Image Info" style="?android:attr/buttonStyleSmall" /> 
+  <EditText android:id="@id/folderindex" android:layout_width="fill_parent" android:layout_height="wrap_content" android:ems="10" android:layout_weight="1.0" android:inputType="number" /> 
+  </LinearLayout>
+  <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+  <Button android:id="@id/loadnewalbum" android:layout_width="141.0dip" android:layout_height="wrap_content" android:text="Load new folder image" /> 
+  <EditText android:id="@id/newfolderindex" android:layout_width="174.0dip" android:layout_height="wrap_content" android:ems="10" android:layout_weight="0.7" android:inputType="number" /> 
+  </LinearLayout>
+  <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+  <Button android:id="@id/downloadoneimage" android:layout_width="141.0dip" android:layout_height="wrap_content" android:text="Download One" /> 
+  <EditText android:id="@id/imageIndex" android:layout_width="174.0dip" android:layout_height="wrap_content" android:ems="10" android:layout_weight="0.7" android:inputType="number" /> 
+  </LinearLayout>
+  <Button android:id="@id/sharers" android:layout_width="141.0dip" android:layout_height="wrap_content" android:text="Sharer Info" style="?android:attr/buttonStyleSmall" /> 
+  <EditText android:gravity="top|left|center" android:id="@id/infoview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="information:" android:ems="10" android:layout_weight="0.7">
+  <requestFocus /> 
+  </EditText>
+  </LinearLayout>
