@@ -32,33 +32,33 @@
   <string name="payment_weixin">微信支付</string> 
   <string name="payment_qr_string">拍二维码，用手机快速支付</string> 
   <string name="payment_accout_balance">帐户余额支付</string> 
-  <string name="show_password">Show password</string> 
-  <string name="account">Account</string> 
-  <string name="account_hint_text">Email/Phone number</string> 
-  <string name="login">Sign in</string> 
-  <string name="next">Next</string> 
-  <string name="prev">Back</string> 
-- <string name="forget_password">
-  <u>Forgot password</u> 
+  <string name="show_password">Показать пароль</string> 
+  <string name="account">Аккаунт</string> 
+  <string name="account_hint_text">E-mail/Телефон</string> 
+  <string name="login">Войти</string> 
+  <string name="next">Далее</string> 
+  <string name="prev">Назад</string> 
+  <string name="forget_password">
+  <u>Забыли пароль?</u> 
   </string>
-  <string name="password">Password</string> 
-  <string name="bad_authentication">Authentication failed. Invalid username or password</string> 
-  <string name="int_phone_user_notice">When signing in with a number outside of mainland China, please also enter in country code. E.g. +886xxxxxxxxx</string> 
-- <string name="micloud_welcome_skip_login">
-  <u>Skip this step</u> 
+  <string name="password">Пароль</string> 
+  <string name="bad_authentication">Ошибка аутентификации. Неверное имя пользователя или пароль</string> 
+  <string name="int_phone_user_notice">При входе из-за пределов материкового Китая, нужно ввести в код страны. Например + 886xxxxxxxxx</string> 
+  <string name="micloud_welcome_skip_login">
+  <u>Пропустить этот шаг</u> 
   </string>
-  <string name="micloud_account_name">Xiaomi account</string> 
-  <string name="micloud_use_existing">Existing</string> 
-  <string name="micloud_reg_new">New</string> 
-  <string name="micloud_error_empty_username">User is blank</string> 
-  <string name="micloud_error_empty_pwd">Password is blank</string> 
-  <string name="micloud_error_illegal_pwd">Invalid password</string> 
-  <string name="micloud_email">Input your Email address</string> 
-  <string name="reg_type_phone">Register via phone number (recommended)</string> 
-  <string name="reg_type_email">Register via email</string> 
-  <string name="micloud_input_password_prompt">Input password</string> 
-  <string name="micloud_password_confirm_hint">Confirm Password</string> 
-  <string name="micloud_password_req_notice">8~16 chars, contains digits, alphabet letters, case sensitive</string> 
+  <string name="micloud_account_name">Аккаунт Xiaomi</string> 
+  <string name="micloud_use_existing">Существующий</string> 
+  <string name="micloud_reg_new">Новый</string> 
+  <string name="micloud_error_empty_username">Введите имя пользователя!</string> 
+  <string name="micloud_error_empty_pwd">Введите пароль!</string> 
+  <string name="micloud_error_illegal_pwd">Неверный пароль</string> 
+  <string name="micloud_email">Введите вашу электронную почту</string> 
+  <string name="reg_type_phone">Регистрация по номеру телефона (рекомендуется)</string> 
+  <string name="reg_type_email">Регистрация по электронной почте</string> 
+  <string name="micloud_input_password_prompt">Введите пароль</string> 
+  <string name="micloud_password_confirm_hint">Подтвердите пароль</string> 
+  <string name="micloud_password_req_notice">от 8 до 16 символов, содержащий цифры, буквы алфавита, с учетом регистра</string> 
   <string name="micloud_password_error_inconsistent">Passwords mismatch</string> 
   <string name="micloud_active_alert_title">Activate your account</string> 
   <string name="micloud_via_sms_alert">An activate SMS which may incur carrier charges will be sent to validate your phone number. Continue?</string> 
