@@ -11,7 +11,7 @@
   <string name="card_txt_register">Регистрация</string> 
   <string name="login_title_v2">Войди в Xiaomi аккаунт</string> 
   <string name="verification_phonenumber_subscript">При входе из-за пределов материкового Китая, нужно ввести в код страны.</string> 
-  <string name="verification_phonenumber_subscript_2">Например: Тайвань: +8869*******，ГонКонг: +8526*******</string> 
+  <string name="verification_phonenumber_subscript_2">Например: Тайвань: +8869*******，Гонконг: +8526*******</string> 
   <string name="account_bn_login">Войти сейчас</string> 
   <string name="account_error_username_empty">Имя не может быть пустым</string> 
   <string name="account_error_password_empty">Пароль не может быть пустым</string> 
