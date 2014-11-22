@@ -2,17 +2,17 @@
   <resources>
   <string name="app_name">个人空间</string> 
   <string name="str_user_history">История</string> 
-  <string name="str_bookmark">收藏</string> 
-  <string name="str_user_payment">消费记录</string> 
+  <string name="str_bookmark">Избранное</string> 
+  <string name="str_user_payment">Покупки</string> 
   <string name="str_movie">Онлайн-видео</string> 
   <string name="str_tv">Прямой эфир</string> 
-  <string name="str_update">追剧有更新</string> 
-  <string name="str_mibi">米币</string> 
-  <string name="str_login">登录</string> 
-  <string name="str_logout">退出登录</string> 
-  <string name="str_register">注册</string> 
-  <string name="str_no_data_history">没有历史记录诶~快去找点片子来看吧！</string> 
-  <string name="str_no_data_bookmark">没有收藏的片子诶~快去找些片子收藏起来吧！</string> 
-  <string name="str_no_data_payment">你还没有消费记录~</string> 
-  <string name="str_findmovie">找片去</string> 
+  <string name="str_update">Новые серии</string> 
+  <string name="str_mibi">Деньги</string> 
+  <string name="str_login">Войти</string> 
+  <string name="str_logout">Выйти</string> 
+  <string name="str_register">Регистрация</string> 
+  <string name="str_no_data_history">Нет записей в истории просмотра!</string> 
+  <string name="str_no_data_bookmark">Нет фильмов/передач в избранном!</string> 
+  <string name="str_no_data_payment">Нет записей о покупках!</string> 
+  <string name="str_findmovie">Поиск</string> 
   </resources>
