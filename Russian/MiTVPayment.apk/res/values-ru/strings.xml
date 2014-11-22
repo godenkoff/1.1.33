@@ -28,10 +28,10 @@
   <string name="payment_pay">Платежи</string> 
   <string name="payment_password_error">Неправильный пароль! Введите повторно</string> 
   <string name="payment_order_onlinevideo">Онлайн видео</string> 
-  <string name="payment_use_mibicard">Использовать Mi-Credit </string>
-  <string name="payment_weixin">微信支付</string> 
-  <string name="payment_qr_string">拍二维码，用手机快速支付</string> 
-  <string name="payment_accout_balance">帐户余额支付</string> 
+  <string name="payment_use_mibicard">Использовать карту Mi-Credit</string>
+  <string name="payment_weixin">Платеж WeChat</string> 
+  <string name="payment_qr_string">QR-код для оплаты с мобильного телефона</string> 
+  <string name="payment_accout_balance">Пополнение баланса帐户余额支付</string> 
   <string name="show_password">Показать пароль</string> 
   <string name="account">Аккаунт</string> 
   <string name="account_hint_text">E-mail/Телефон</string> 
