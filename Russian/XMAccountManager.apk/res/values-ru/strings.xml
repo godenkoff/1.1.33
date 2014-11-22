@@ -50,33 +50,33 @@
   <string name="success_register">Регистрация удалась</string> 
 #####  </resources>
 #####  <?xml version="1.0" encoding="utf-8" ?> 
-#####- <resources>
-  <string name="app_name">小米服務框架</string> 
-  <string name="micloud_account_name">小米帳號</string> 
-  <string name="confirm">確定</string> 
-  <string name="familyid_error">绑定家庭帳戶失敗</string> 
-  <string name="relogin_reason">帳戶信息發生變化，請重新驗證帳戶</string> 
-  <string name="relogin_user">用戶 %s</string> 
-  <string name="relogin_button_ok">確 定</string> 
-  <string name="no_chinese_character">請勿輸入中文</string> 
-  <string name="account">帳號</string> 
-  <string name="account_hint_text">信箱/手機號碼/小米ID</string> 
-  <string name="login">登錄</string> 
-  <string name="basic_info">基本訊息</string> 
-  <string name="next">下一步</string> 
-  <string name="prev">上一步</string> 
-- <string name="forget_password">
+#####  <resources>
+  <string name="app_name">Сервисы Xiaomi</string> 
+  <string name="micloud_account_name">Аккаунт Xiaomi</string> 
+  <string name="confirm">Подтвердить</string> 
+  <string name="familyid_error">Не удалось выполнить привязку семейного аккаунта</string> 
+  <string name="relogin_reason">Изменилась информация аккаунта, проверьте подлинность аккаунта еще раз</string> 
+  <string name="relogin_user">Пользователь %s</string> 
+  <string name="relogin_button_ok">OK</string> 
+  <string name="no_chinese_character">Не вводите по-китайски</string> 
+  <string name="account">Аккаунт</string> 
+  <string name="account_hint_text">e-mail/телефон/Xiaomi ID</string> 
+  <string name="login">Войти</string> 
+  <string name="basic_info">Основная информация</string> 
+  <string name="next">Далее</string> 
+  <string name="prev">Назад</string> 
+  <string name="forget_password">
   " " 
-  <u>忘記密碼</u> 
+  <u>Забыли пароль?</u> 
   " " 
   </string>
-  <string name="password">密碼</string> 
-  <string name="password_hint_text">6~16位字符</string> 
-  <string name="bad_authentication">用戶名密碼不匹配</string> 
-  <string name="micloud_welcome_banner">小米帳號</string> 
+  <string name="password">Пароль/string> 
+  <string name="password_hint_text">от 6 до 16 символов</string> 
+  <string name="bad_authentication">Неверное имя пользователя или пароль</string> 
+  <string name="micloud_welcome_banner">Аккаунт Xiaomi</string> 
 - <string name="micloud_welcome_skip_login">
   " " 
-  <u>跳過此步驟</u> 
+  <u>Пропустить этот шаг</u> 
   " " 
   </string>
   <string name="micloud_title">MiCloud</string> 
