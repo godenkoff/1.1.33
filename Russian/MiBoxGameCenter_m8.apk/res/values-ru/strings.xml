@@ -1,12 +1,12 @@
   <?xml version="1.0" encoding="utf-8" ?> 
-- <resources>
+  <resources>
   <string name="bytes_unit">%1$sB</string> 
   <string name="kilobytes_unit">%1$sKB</string> 
   <string name="megabytes_unit">%1$sMB</string> 
   <string name="rank_sub_title">"%1$s （%2$d）"</string> 
   <string name="screen_orientation">portrait</string> 
-  <string name="app_name">游戏中心</string> 
-  <string name="connect_fail">%1$s安装失败：连接错误，请检查网络链接</string> 
+  <string name="app_name">Игровой центр</string> 
+  <string name="connect_fail">%1$s Установка не удалась: Ошибка соединения, проверьте сетевое соединение</string> 
   <string name="connect_no_fit_fail">%1$s安装失败：没有适合您手机的安装包</string> 
   <string name="download_start_fail">%1$s安装失败：无法建立下载任务</string> 
   <string name="download_deleted_fail">%1$s安装失败：任务被删除</string> 
