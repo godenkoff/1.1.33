@@ -1,29 +1,29 @@
   <?xml version="1.0" encoding="utf-8" ?> 
-- <resources>
-  <string name="linkpay_app_name">支付</string> 
-  <string name="linkpay_choose_pay_way">选择支付方式</string> 
+  <resources>
+  <string name="linkpay_app_name">Оплата</string> 
+  <string name="linkpay_choose_pay_way">Выберите способ оплаты</string> 
   <string name="linkpay_shenzhoufu">神州付</string> 
-  <string name="linkpay_unicom_msg_pay">联通短信支付</string> 
+  <string name="linkpay_unicom_msg_pay">Unicom SMS оплата</string> 
   <string name="linkpay_wo_money_pay">WO币支付</string> 
-  <string name="linkpay_zhifubao">支付宝</string> 
-  <string name="linkpay_consumer_records">消费记录</string> 
-  <string name="linkpay_dear_user">亲爱的用户：</string> 
-  <string name="linkpay_you_will_pay">您将支付</string> 
+  <string name="linkpay_zhifubao">Alipay</string> 
+  <string name="linkpay_consumer_records">Потребительские отчеты</string> 
+  <string name="linkpay_dear_user">Уважаемый пользователь:</string> 
+  <string name="linkpay_you_will_pay">Вам нужно оплатить</string> 
   <string name="linkpay_yuan">元</string> 
-  <string name="linkpay_to_buy">用于购买</string> 
-  <string name="linkpay_choose_paycard_type">选择支付卡类型</string> 
-  <string name="linkpay_choose_paycard_value">选择支付卡面值</string> 
+  <string name="linkpay_to_buy">за покупку</string> 
+  <string name="linkpay_choose_paycard_type">Выберите тип платежной карты</string> 
+  <string name="linkpay_choose_paycard_value">Выберите номинальную стоимость платежной карты</string> 
   <string name="linkpay_ten_yuan">10元</string> 
   <string name="linkpay_twenty_yuan">20元</string> 
   <string name="linkpay_thirty_yuan">30元</string> 
   <string name="linkpay_fifty_yuan">50元</string> 
   <string name="linkpay_hundred_yuan">100元</string> 
-  <string name="linkpay_please_choose_paycard_type">请选择支付卡类型</string> 
-  <string name="linkpay_please_choose_paycard_value">请选择支付卡面值</string> 
-  <string name="linkpay_account_cannot_be_null">账号不能为空</string> 
-  <string name="linkpay_password_cannot_be_null">密码不能为空</string> 
-  <string name="linkpay_ordernum">序号</string> 
-  <string name="linkpay_product">商品内容</string> 
+  <string name="linkpay_please_choose_paycard_type">Пожалуйста, выберите тип платежной карты</string> 
+  <string name="linkpay_please_choose_paycard_value">Пожалуйста, выберите номинальную стоимость платежной карты</string> 
+  <string name="linkpay_account_cannot_be_null">Аккаунт/ID не может быть пустым</string> 
+  <string name="linkpay_password_cannot_be_null">Пароль не может быть пустым</string> 
+  <string name="linkpay_ordernum">Cерийный номер</string> 
+  <string name="linkpay_product">Сведения о продукте</string> 
   <string name="linkpay_price">价格(分)</string> 
   <string name="linkpay_pay_way">支付方式</string> 
   <string name="linkpay_pay_result">支付结果</string> 
