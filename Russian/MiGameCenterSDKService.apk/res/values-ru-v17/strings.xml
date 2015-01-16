@@ -1,7 +1,7 @@
   <?xml version="1.0" encoding="utf-8" ?> 
  <resources>
   <string name="hello">Hello World, Main!</string> 
-  <string name="app_name">MiGame Security Plugin</string> 
+  <string name="app_name">Модуль безопасности MiGame</string> 
   <string name="crash_toast_text">testcrashtoasttext</string> 
   <string name="screen_orientation">ландшафтный</string> 
   </resources>
